@@ -24,10 +24,25 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
+<a href="https://developer.android.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" height="40" width="40" />
+</a>
+<a href="https://unity.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40" width="40" />
+</a>
+<a href="https://www.w3.org/html/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
+</a>
+<a href="https://getbootstrap.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
+</a>
 
- <a href="https://wakatime.com/@Iyxan23"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Iyxan23&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="iyxan23" /> </a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Meowmeowzers stats card" /></p>
+
 <!--
 **Meowmeowzers/Meowmeowzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
