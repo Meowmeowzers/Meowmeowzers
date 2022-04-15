@@ -47,7 +47,7 @@
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dark&title_color=ffffff&text_color=ffffffbg_color=00566b&hide_border=true&layout=compact" alt="Meowmeowzers stats card" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dracula&title_color=ffffff&text_color=ffffffbg_color=00566b&hide_border=true&layout=compact" alt="Meowmeowzers stats card" />
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meowmeowzers&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true" alt="Meowmeowzers stats card" /></p>
 
