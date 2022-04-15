@@ -47,7 +47,9 @@
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Meowmeowzers stats card" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dark&title_color=ffffff&text_color=ffffffbg_color=00566b&hide_border=true&layout=compact" alt="Meowmeowzers stats card" />
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meowmeowzers&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true" alt="Meowmeowzers stats card" /></p>
 
 <!--
 **Meowmeowzers/Meowmeowzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
