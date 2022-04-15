@@ -1,11 +1,10 @@
-### Hi there 👋
 ## Welcome to my empty Github repository
 
 - 🔭 I’m currently working on ... none
 - 🌱 I’m currently learning ... i cant
 - 👯 I’m looking to collaborate on ... none
 - 🤔 I’m looking for help with ... ideas
-- ⚡ Fun fact: ... i like cats
+- ⚡ Fun fact: ... none
 <br>
 <p>
 <a href="https://www.w3schools.com/cpp/" target="blank">
@@ -50,10 +49,11 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true&layout=compact" alt="Meowmeowzers stats card" />
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meowmeowzers&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true" alt="Meowmeowzers stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Meowmeowzers&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true&hide=contribs" alt="Meowmeowzers stats card"/></p>
 
 <!--
 **Meowmeowzers/Meowmeowzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
