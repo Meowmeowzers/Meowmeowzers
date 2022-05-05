@@ -1,7 +1,7 @@
 ## Welcome to my empty Github repository
 
 - 🔭 I’m currently working on ... none
-- 🌱 I’m currently learning ... i cant
+- 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... none
 - 🤔 I’m looking for help with ... ideas
 - ⚡ Fun fact: ... none
