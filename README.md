@@ -1,7 +1,7 @@
 ## Welcome to my empty Github repository
 
 - 🔭 I’m currently working on ... hopeless studies
-- 🌱 I’m currently learning ... Android App Development with Kotlin
+- 🌱 I’m currently learning ... Unity and C#
 - 👯 I’m looking to collaborate on ... none
 - 🤔 I’m looking for help with ... ideas
 - ⚡ Fun fact: ... none
