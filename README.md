@@ -50,7 +50,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meowmeowzers&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true&layout=compact" alt="Meowmeowzers stats card" />
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meowmeowzers&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=00566b&hide_border=true&hide=contribs" alt="Meowmeowzers stats card"/></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Meowmeowzers/Meowmeowzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
