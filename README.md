@@ -1,10 +1,12 @@
-## Welcome to my empty Github repository
+##  👋 Hi there,  Welcome to my Github repository
 
-- 🔭 I’m currently working on ... hopeless studies
-- 🌱 I’m currently learning ... Unity and C#
+- 🔭 I’m currently working on ... Being a responsible adult
+- 🌱 I’m currently learning ... ReactJS
 - 👯 I’m looking to collaborate on ... none
 - 🤔 I’m looking for help with ... ideas
-- ⚡ Fun fact: ... none
+- 💬 Ask me about ... anything, I'll try to answer them
+- 📫 How to reach me: ... email / discord
+- ⚡ Fun fact: ... no fun facts
 
 <br>
 
@@ -21,7 +23,7 @@
   <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" /></a>
   <a href="https://getbootstrap.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" width="40"/></a>
-  <!--a href="https://reactjs.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="40" width="40" /></a-->  
+  <a href="https://reactjs.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="40" width="40" /></a>  
 </p>
 
 <p>
@@ -39,8 +41,5 @@
 
 <!--
 **Meowmeowzers/Meowmeowzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
