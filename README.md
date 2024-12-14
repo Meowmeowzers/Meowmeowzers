@@ -1,11 +1,11 @@
 #  👋 Hi there,  Welcome to my Github repository
 
-- 🔭 I’m currently working on ... sign language learning with hand recognition web app
+- 🔭 I’m currently working on ... none
 - 🌱 I’m currently learning ... none
-- 👯 I’m looking to collaborate on ... personal projects
-- 🤔 I’m looking for help with ... ideas
+- 👯 I’m looking to collaborate on ... none
+- 🤔 I’m looking for help with ... idk anymore
 - 💬 Ask me about ... anything, I'll try to answer them if i can
-- 📫 How to reach me: ... email / discord
+- 📫 How to reach me: ... email
 - ⚡ Fun fact: ... no fun facts
 
 <table>
