@@ -10,7 +10,7 @@
 
 <table>
 	<tr>
-		<th colspan="2"> <h2>Experienced Technologies</h2> </th>
+		<th colspan="2"> <h2>Technologies I've Experienced</h2> </th>
 	</tr>
 	<tr>
 		<th> Programming Language </th>
